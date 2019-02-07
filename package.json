@@ -1,0 +1,8 @@
+{
+  "name": "pixabay-search-engine",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/nilesh271/pixabay-search-engine.git",
+  "author": "nilesh.kumrawat <nilesh.kumrawat@globant.com>",
+  "license": "MIT"
+}
