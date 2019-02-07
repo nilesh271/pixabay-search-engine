@@ -1,0 +1,11 @@
+html, body {
+  margin: 0 auto;
+  width: 100%;
+  height: 100%;
+}
+
+#image-grid > li {
+  width: 25%;
+  height: 184px;
+  padding: 2px;
+}
